@@ -1,5 +1,6 @@
 package hello;
 
-public class Hello {
-  //헬로 변경
+	public static void main(String[] args) {
+	  System.out.println("Hi);
+	}
 }
